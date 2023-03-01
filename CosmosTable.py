@@ -2,6 +2,8 @@ pip install azure-data-tables
 
 from azure.data.tables import TableClient
 
+# reference: https://pypi.org/project/azure-data-tables/
+# https://towardsdatascience.com/tutorial-of-python-azure-functions-81949b1fd6db
 
 
 # create client from connection string 
