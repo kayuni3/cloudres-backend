@@ -4,6 +4,7 @@ from azure.data.tables import TableClient
 
 # reference: https://pypi.org/project/azure-data-tables/
 # https://towardsdatascience.com/tutorial-of-python-azure-functions-81949b1fd6db
+# https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python?pivots=python-mode-configuration
 
 
 # create client from connection string 
